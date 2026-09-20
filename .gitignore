@@ -1,0 +1,46 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio / Rider user files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.rsuser
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Test results and coverage
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.trx
+
+# Dotnet tooling
+project.lock.json
+artifacts/
+
+# ASP.NET Core / local settings
+appsettings.*.json
+launchSettings.json
+
+# Rider and VS Code workspace metadata
+.idea/
+.vscode/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local caches
+.cache/
+.local/
+*.log
